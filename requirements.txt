@@ -1,0 +1,8 @@
+openai
+langchain
+requests
+python-telegram-bot==12.8.0
+python-dotenv
+soundfile
+pydub
+lameenc
